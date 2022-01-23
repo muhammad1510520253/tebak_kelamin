@@ -1,4 +1,4 @@
-# tebak_jenis_kelamin
+# Tebak jenis kelamin
 
 Aplikasi Sederhana tenak jenis kelamin.
 
