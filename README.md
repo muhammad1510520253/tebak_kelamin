@@ -1,6 +1,6 @@
 # tebak_jenis_kelamin
 
-A new Flutter project.
+Aplikasi Sederhana tenak jenis kelamin.
 
 ## Getting Started
 
