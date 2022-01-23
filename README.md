@@ -1,6 +1,6 @@
 # Tebak jenis kelamin
 
-Aplikasi Sederhana tenak jenis kelamin.
+Aplikasi Sederhana tebak jenis kelamin.
 
 ## Getting Started
 
